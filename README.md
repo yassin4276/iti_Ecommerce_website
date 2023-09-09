@@ -1,2 +1,6 @@
 # iti_Ecommerce_website
-final project in Laravel ITI  course
+## Components : 
+- PHP (laravel framework)
+- HTML
+- CSS
+- CSS framework (BOOTSTRAP)
